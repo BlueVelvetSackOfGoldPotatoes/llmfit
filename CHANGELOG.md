@@ -1,5 +1,15 @@
 # Changelog
 
+## [1.1.10](https://github.com/AlexsJones/llmfit/compare/v1.1.9...v1.1.10) (2026-08-14)
+
+
+### Bug Fixes
+
+* **bench:** align 7900 XT hardwareName with the existing slug entries ([c25754a](https://github.com/AlexsJones/llmfit/commit/c25754ac029f35b8a59037096c1b6e4e70fc86e2))
+* expose MiniMax M3 vision capability ([#793](https://github.com/AlexsJones/llmfit/issues/793)) ([4801d4a](https://github.com/AlexsJones/llmfit/commit/4801d4a75b175aeab264806b3bb82ff7436f54ce))
+* **ollama:** stop one sized install marking a whole model family installed ([#863](https://github.com/AlexsJones/llmfit/issues/863)) ([c9a5678](https://github.com/AlexsJones/llmfit/commit/c9a567883e7827dcaa2230af027a5e8cc4b400ae))
+* **providers:** resolve MLX community tags to catalog ids ([#854](https://github.com/AlexsJones/llmfit/issues/854)) ([#860](https://github.com/AlexsJones/llmfit/issues/860)) ([b79f2df](https://github.com/AlexsJones/llmfit/commit/b79f2dfd2e2020bd9f8dc4b3781fd017286a21d5))
+
 ## [1.1.9](https://github.com/AlexsJones/llmfit/compare/v1.1.8...v1.1.9) (2026-08-09)
 
 
